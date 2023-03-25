@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d17dd05a-2855-441f-9e7d-92625438b0c7" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicPrograms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiDimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiDimensional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.MultiDimensional">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="java" />
@@ -59,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiDimensional" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TypeCasting" />
       <module name="java" />
@@ -68,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiDimensional" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.BasicPrograms" />
         <item itemvalue="Application.TypeCasting" />
