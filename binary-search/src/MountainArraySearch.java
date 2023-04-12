@@ -30,6 +30,9 @@ public class MountainArraySearch {
         end = mid;
       }
     }
+    // at the end start == end and at this point target will be start or end. Further we can check the target condition that it greater than its LHS and RHS element
+    // this will cover the case where such target element does not exist. Example arr = {1,2,3,4,5}
+    // here that target will not exist which will be greater than LSH and RHS.
     return start;
   }
 
